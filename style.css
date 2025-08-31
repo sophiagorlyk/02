@@ -30,8 +30,7 @@ body{background-color: rgb(252, 204, 72);}
 @media (max-width: 500px){
     .ctn{
         font-size: 1rem;
-        padding: 0.7em 0.7em;
-        max-width: 90%;
-        height: auto;
+        padding:1.2em;
+        width: 80%;
     }
 }
